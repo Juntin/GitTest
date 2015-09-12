@@ -6,3 +6,7 @@ updated the original file to "this is my first git file ."
 edit for the third test .
 
 forth stage test
+
+test for fifth .
+test for sixth.
+
