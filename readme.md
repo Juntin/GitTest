@@ -9,4 +9,10 @@ forth stage test
 
 test for fifth .
 test for sixth.
+test for modify .
 
+test for modify in sublime2
+
+ok , i knew that the edition in sublime could be recovered but the vim .
+
+again 
